@@ -74,4 +74,7 @@ This project was developed as part of a Biomedical Engineering course.
 Yuris Abdillah
 
 Biomedical Engineering Student
+Project Demonstration Video
+
+Watch the project demonstration on YouTube: https://youtu.be/7utxc21SN8c?si=ra1tZ5FcFqDSixzL
 
